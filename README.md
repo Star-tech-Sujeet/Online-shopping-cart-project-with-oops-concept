@@ -66,9 +66,7 @@ To test the project, follow these steps:
 3. Use the menu options to test the project's functionality, including adding and removing products, and displaying the cart contents.
 4. Verify that the project handles invalid inputs correctly, such as trying to add a product to the cart with a quantity of zero or less.
 
-## 📸 Screenshots
 
-[Insert screenshots of the project in action, including the menu options and cart contents.]
 
 ## 📦 API Reference
 
